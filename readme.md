@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express.js**
 
-- 👨‍💻 All of my projects are available at [www.khalednadam.com](www.khalednadam.com)
+- 👨‍💻 All of my projects are available at [khalednadam.com](khalednadam.com)
 
 - 📫Reach me on **hello@khalednadam.com**
 
