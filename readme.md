@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/khaled_nadam" target="blank"><img src="https://img.shields.io/twitter/follow/khaled_nadam?logo=twitter&style=for-the-badge" alt="khaled_nadam" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [khalednadam.com](https://khalednadam.com)
 
