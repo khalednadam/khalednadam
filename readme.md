@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Nadam</h1>
-<h3 align="center">Frontend developer leaning backend development</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/khaled_nadam" target="blank"><img src="https://img.shields.io/twitter/follow/khaled_nadam?logo=twitter&style=for-the-badge" alt="khaled_nadam" /></a> </p>
-
-- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available at [khalednadam.com](https://khalednadam.com)
 
@@ -13,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/khaled_nadam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaled_nadam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khaled-nadam-2b7693150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaled-nadam-2b7693150" height="30" width="40" /></a>
-<a href="https://instagram.com/software_jounrey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="software_jounrey1" height="30" width="40" /></a>
+<a href="https://instagram.com/software_journey1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="software_jounrey1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
