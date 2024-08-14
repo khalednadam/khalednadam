@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Khaled and I'm a software engineer, from syria</p>
+<p align="left">My name is Khaled and I'm a software engineer</p>
 
 ###
 
