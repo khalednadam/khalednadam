@@ -50,10 +50,10 @@
   <a href="https://instagram.com/software_journey1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/khaled-nadam-2b7693150/" target="_blank">
+  <a href="https://www.linkedin.com/in/khalednadam/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/khaled_nadam" target="_blank">
+  <a href="https://x.com/kn_swe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
